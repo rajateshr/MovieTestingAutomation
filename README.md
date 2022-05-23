@@ -14,3 +14,4 @@ Steps to Run the Automation Test Scripts through Framework -
 -SearchKeyword-- Movie Search keyword for both sites.For example 'Pushpa The Rise Part 1' can just be searched by typing 'Pushpa' in search tab
 -MovieName in IMDB--Movie Name as displayed in IMDB.For example 'Pushpa The Rise Part 1'
 -MovieName in Wiki--Movie name as displayed in Wikipedia..For example 'Pushpa: The Rise'
+With this, this project can take 'ANY' movie name and give required test results.
